@@ -1,0 +1,3 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+df40a105-921e-421f-822f-0fce72ba4cd7,1608130202.9508,[0],"[0.6, 0.4]","['France', '2020', '01', '05']",0.1,00:00:06
+1d825054-1ed4-477c-a834-fef61fadfb4a,1608130202.9508,[0],"[0.7, 0.3]","['France', '2018', '01', '05']",0.1,00:00:06

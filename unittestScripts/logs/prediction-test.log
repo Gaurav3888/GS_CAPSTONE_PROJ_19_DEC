@@ -1,0 +1,2 @@
+unique_id,timestamp,y_pred,y_proba,query,model_version,runtime
+18ad47e7-f5a5-42ce-8079-7dcd0b43caaa,1608046231.0724254,[1038.81133333],None,2017-11-30,0.1,000:00:44
